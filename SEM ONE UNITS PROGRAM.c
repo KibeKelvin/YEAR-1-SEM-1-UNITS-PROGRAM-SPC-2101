@@ -1,8 +1,9 @@
-//Simple c program(Hello World)single line comme
+//Simple c program(Hello World)single line comment
 
 /*
 NAME:KIBE KELVIN
 REG NO:CT101/G/24702/24
+DESCRIPTION:A program to list computer science year one semester one units
 DATE:15/9/2025
 */
 
@@ -22,4 +23,5 @@ printf("UCU 2105:FUNDAMENTALS OF ICT\n");
 
 return 0;
 }
+
 
